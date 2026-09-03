@@ -1,0 +1,6 @@
+interface:
+  display_name: "自然数模代码"
+  short_description: "面向短期数学建模竞赛，生成易懂、从简、少模板化的求解与绘图代码"
+  default_prompt: "Use $natural-modeling-code to write this mathematical modeling script in a concise, problem-first competition style."
+policy:
+  allow_implicit_invocation: true
