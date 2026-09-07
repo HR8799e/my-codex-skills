@@ -1,0 +1,4 @@
+interface:
+  display_name: "数模论文排版"
+  short_description: "统一数学建模论文的文字、公式与 Word 整体版面"
+  default_prompt: "Use $modeling-paper-format to format this mathematical-modeling paper as a clear, competition-style Word document."
